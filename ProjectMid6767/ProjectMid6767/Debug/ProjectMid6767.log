@@ -1,0 +1,8 @@
+﻿  ProjectMid6767.cpp
+C:\Users\smohanty49\source\repos\ProjectMid6767\ProjectMid6767\ProjectMid6767.cpp(229,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smohanty49\source\repos\ProjectMid6767\ProjectMid6767\ProjectMid6767.cpp(289,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smohanty49\source\repos\ProjectMid6767\ProjectMid6767\ProjectMid6767.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smohanty49\source\repos\ProjectMid6767\ProjectMid6767\ProjectMid6767.cpp(309,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smohanty49\source\repos\ProjectMid6767\ProjectMid6767\ProjectMid6767.cpp(324,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smohanty49\source\repos\ProjectMid6767\ProjectMid6767\ProjectMid6767.cpp(288,12): warning C4101: 'position': unreferenced local variable
+  ProjectMid6767.vcxproj -> C:\Users\smohanty49\source\repos\ProjectMid6767\Debug\ProjectMid6767.exe
