@@ -12,8 +12,8 @@ Task 1
 Task 2
 4. result file
 
-5 code files in total. Location: \Submission\ProjectMid6767\ProjectMid6767
+5 code files in total. Location: \Dynamic-Delta-Hedging\ProjectMid6767\ProjectMid6767
 
 There is ProjectMid6767.exe (which is Windows App) is located in \Submission\ProjectMid6767\Debug\ProjectMid6767.exe which has built the project and runs the program. The .exe file can be run to implement to code.
 
-The Jypyter notebook for analysis is at \Submission\analysis_notebook.ipynb
+The Jypyter notebook for analysis is at \Dynamic-Delta-Hedging\analysis_notebook.ipynb
